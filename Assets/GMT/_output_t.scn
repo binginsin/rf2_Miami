@@ -1,0 +1,468 @@
+Instance=racesurface_t0_s0
+{
+	MeshFile=racesurface_t0_s0.gmt CollTarget=True HATTarget=True LODOut=(1312.7) 
+}
+Instance=racesurface_t0_s1
+{
+	MeshFile=racesurface_t0_s1.gmt CollTarget=True HATTarget=True LODOut=(1040.4) 
+}
+Instance=racesurface_t0_s2
+{
+	MeshFile=racesurface_t0_s2.gmt CollTarget=True HATTarget=True LODOut=(1040.6) 
+}
+Instance=racesurface_t0_s3
+{
+	MeshFile=racesurface_t0_s3.gmt CollTarget=True HATTarget=True LODOut=(1018.0) 
+}
+Instance=racesurface_t0_s4
+{
+	MeshFile=racesurface_t0_s4.gmt CollTarget=True HATTarget=True LODOut=(1018.5) 
+}
+Instance=racesurface_t0_s5
+{
+	MeshFile=racesurface_t0_s5.gmt CollTarget=True HATTarget=True LODOut=(1016.8) 
+}
+Instance=racesurface_t0_s6
+{
+	MeshFile=racesurface_t0_s6.gmt CollTarget=True HATTarget=True LODOut=(1022.7) 
+}
+Instance=racesurface_t0_s7
+{
+	MeshFile=racesurface_t0_s7.gmt CollTarget=True HATTarget=True LODOut=(1027.9) 
+}
+Instance=racesurface_t0_s8
+{
+	MeshFile=racesurface_t0_s8.gmt CollTarget=True HATTarget=True LODOut=(1012.1) 
+}
+Instance=racesurface_t0_s9
+{
+	MeshFile=racesurface_t0_s9.gmt CollTarget=True HATTarget=True LODOut=(1015.5) 
+}
+Instance=racesurface_t0_s10
+{
+	MeshFile=racesurface_t0_s10.gmt CollTarget=True HATTarget=True LODOut=(1012.6) 
+}
+Instance=racesurface_t0_s11
+{
+	MeshFile=racesurface_t0_s11.gmt CollTarget=True HATTarget=True LODOut=(1013.8) 
+}
+Instance=racesurface_t0_s12
+{
+	MeshFile=racesurface_t0_s12.gmt CollTarget=True HATTarget=True LODOut=(1020.7) 
+}
+Instance=racesurface_t0_s13
+{
+	MeshFile=racesurface_t0_s13.gmt CollTarget=True HATTarget=True LODOut=(1016.9) 
+}
+Instance=racesurface_t0_s14
+{
+	MeshFile=racesurface_t0_s14.gmt CollTarget=True HATTarget=True LODOut=(1035.4) 
+}
+Instance=racesurface_t0_s15
+{
+	MeshFile=racesurface_t0_s15.gmt CollTarget=True HATTarget=True LODOut=(1028.4) 
+}
+Instance=racesurface_t0_s16
+{
+	MeshFile=racesurface_t0_s16.gmt CollTarget=True HATTarget=True LODOut=(1033.8) 
+}
+Instance=racesurface_t0_s17
+{
+	MeshFile=racesurface_t0_s17.gmt CollTarget=True HATTarget=True LODOut=(1029.3) 
+}
+Instance=racesurface_t0_s18
+{
+	MeshFile=racesurface_t0_s18.gmt CollTarget=True HATTarget=True LODOut=(1035.8) 
+}
+Instance=racesurface_t0_s19
+{
+	MeshFile=racesurface_t0_s19.gmt CollTarget=True HATTarget=True LODOut=(1016.6) 
+}
+Instance=racesurface_t0_s20
+{
+	MeshFile=racesurface_t0_s20.gmt CollTarget=True HATTarget=True LODOut=(1017.1) 
+}
+Instance=racesurface_t0_s21
+{
+	MeshFile=racesurface_t0_s21.gmt CollTarget=True HATTarget=True LODOut=(1022.7) 
+}
+Instance=racesurface_t0_s22
+{
+	MeshFile=racesurface_t0_s22.gmt CollTarget=True HATTarget=True LODOut=(1018.4) 
+}
+Instance=racesurface_t0_s23
+{
+	MeshFile=racesurface_t0_s23.gmt CollTarget=True HATTarget=True LODOut=(1018.6) 
+}
+Instance=racesurface_t0_s24
+{
+	MeshFile=racesurface_t0_s24.gmt CollTarget=True HATTarget=True LODOut=(1068.4) 
+}
+Instance=racesurface_t0_s25
+{
+	MeshFile=racesurface_t0_s25.gmt CollTarget=True HATTarget=True LODOut=(1036.7) 
+}
+Instance=racesurface_t0_s26
+{
+	MeshFile=racesurface_t0_s26.gmt CollTarget=True HATTarget=True LODOut=(1018.8) 
+}
+Instance=racesurface_t0_s27
+{
+	MeshFile=racesurface_t0_s27.gmt CollTarget=True HATTarget=True LODOut=(1088.1) 
+}
+Instance=racesurface_t0_s28
+{
+	MeshFile=racesurface_t0_s28.gmt CollTarget=True HATTarget=True LODOut=(1061.1) 
+}
+Instance=racesurface_t0_s29
+{
+	MeshFile=racesurface_t0_s29.gmt CollTarget=True HATTarget=True LODOut=(1027.6) 
+}
+Instance=racesurface_t0_s30
+{
+	MeshFile=racesurface_t0_s30.gmt CollTarget=True HATTarget=True LODOut=(1033.5) 
+}
+Instance=racesurface_t0_s31
+{
+	MeshFile=racesurface_t0_s31.gmt CollTarget=True HATTarget=True LODOut=(1019.3) 
+}
+Instance=racesurface_t0_s32
+{
+	MeshFile=racesurface_t0_s32.gmt CollTarget=True HATTarget=True LODOut=(1030.2) 
+}
+Instance=racesurface_t0_s33
+{
+	MeshFile=racesurface_t0_s33.gmt CollTarget=True HATTarget=True LODOut=(1011.9) 
+}
+Instance=racesurface_t0_s34
+{
+	MeshFile=racesurface_t0_s34.gmt CollTarget=True HATTarget=True LODOut=(1015.6) 
+}
+Instance=racesurface_t0_s35
+{
+	MeshFile=racesurface_t0_s35.gmt CollTarget=True HATTarget=True LODOut=(1013.0) 
+}
+Instance=racesurface_t0_s36
+{
+	MeshFile=racesurface_t0_s36.gmt CollTarget=True HATTarget=True LODOut=(1046.3) 
+}
+Instance=racesurface_t0_s37
+{
+	MeshFile=racesurface_t0_s37.gmt CollTarget=True HATTarget=True LODOut=(1037.2) 
+}
+Instance=racesurface_t0_s38
+{
+	MeshFile=racesurface_t0_s38.gmt CollTarget=True HATTarget=True LODOut=(1056.3) 
+}
+Instance=racesurface_t0_s39
+{
+	MeshFile=racesurface_t0_s39.gmt CollTarget=True HATTarget=True LODOut=(1067.8) 
+}
+Instance=racesurface_t0_s40
+{
+	MeshFile=racesurface_t0_s40.gmt CollTarget=True HATTarget=True LODOut=(1148.4) 
+}
+Instance=racesurface_t0_s41
+{
+	MeshFile=racesurface_t0_s41.gmt CollTarget=True HATTarget=True LODOut=(1057.1) 
+}
+Instance=racesurface_t0_s42
+{
+	MeshFile=racesurface_t0_s42.gmt CollTarget=True HATTarget=True LODOut=(1017.5) 
+}
+Instance=racesurface_t0_s43
+{
+	MeshFile=racesurface_t0_s43.gmt CollTarget=True HATTarget=True LODOut=(1035.8) 
+}
+Instance=racesurface_t0_s44
+{
+	MeshFile=racesurface_t0_s44.gmt CollTarget=True HATTarget=True LODOut=(1017.4) 
+}
+Instance=racesurface_t0_s45
+{
+	MeshFile=racesurface_t0_s45.gmt CollTarget=True HATTarget=True LODOut=(1044.9) 
+}
+Instance=racesurface_t0_s46
+{
+	MeshFile=racesurface_t0_s46.gmt CollTarget=True HATTarget=True LODOut=(1018.4) 
+}
+Instance=racesurface_t0_s47
+{
+	MeshFile=racesurface_t0_s47.gmt CollTarget=True HATTarget=True LODOut=(1043.5) 
+}
+Instance=racesurface_t0_s48
+{
+	MeshFile=racesurface_t0_s48.gmt CollTarget=True HATTarget=True LODOut=(1030.2) 
+}
+Instance=racesurface_t0_s49
+{
+	MeshFile=racesurface_t0_s49.gmt CollTarget=True HATTarget=True LODOut=(1043.0) 
+}
+Instance=racesurface_t0_s50
+{
+	MeshFile=racesurface_t0_s50.gmt CollTarget=True HATTarget=True LODOut=(1034.2) 
+}
+Instance=racesurface_t0_s51
+{
+	MeshFile=racesurface_t0_s51.gmt CollTarget=True HATTarget=True LODOut=(1024.3) 
+}
+Instance=racesurface_t0_s52
+{
+	MeshFile=racesurface_t0_s52.gmt CollTarget=True HATTarget=True LODOut=(1045.6) 
+}
+Instance=racesurface_t0_s53
+{
+	MeshFile=racesurface_t0_s53.gmt CollTarget=True HATTarget=True LODOut=(1034.3) 
+}
+Instance=racesurface_t0_s54
+{
+	MeshFile=racesurface_t0_s54.gmt CollTarget=True HATTarget=True LODOut=(1020.9) 
+}
+Instance=racesurface_t0_s55
+{
+	MeshFile=racesurface_t0_s55.gmt CollTarget=True HATTarget=True LODOut=(1020.2) 
+}
+Instance=racesurface_t0_s56
+{
+	MeshFile=racesurface_t0_s56.gmt CollTarget=True HATTarget=True LODOut=(1056.4) 
+}
+Instance=racesurface_t0_s57
+{
+	MeshFile=racesurface_t0_s57.gmt CollTarget=True HATTarget=True LODOut=(1014.9) 
+}
+Instance=racesurface_t0_s58
+{
+	MeshFile=racesurface_t0_s58.gmt CollTarget=True HATTarget=True LODOut=(1155.2) 
+}
+Instance=racesurface_t0_s59
+{
+	MeshFile=racesurface_t0_s59.gmt CollTarget=True HATTarget=True LODOut=(1055.7) 
+}
+Instance=racesurface_t0_s60
+{
+	MeshFile=racesurface_t0_s60.gmt CollTarget=True HATTarget=True LODOut=(1019.4) 
+}
+Instance=racesurface_t0_s61
+{
+	MeshFile=racesurface_t0_s61.gmt CollTarget=True HATTarget=True LODOut=(1229.0) 
+}
+Instance=racesurface_t0_s62
+{
+	MeshFile=racesurface_t0_s62.gmt CollTarget=True HATTarget=True LODOut=(1019.4) 
+}
+Instance=racesurface_t0_s63
+{
+	MeshFile=racesurface_t0_s63.gmt CollTarget=True HATTarget=True LODOut=(1059.4) 
+}
+Instance=racesurface_t0_s64
+{
+	MeshFile=racesurface_t0_s64.gmt CollTarget=True HATTarget=True LODOut=(1097.4) 
+}
+Instance=racesurface_t0_s65
+{
+	MeshFile=racesurface_t0_s65.gmt CollTarget=True HATTarget=True LODOut=(1017.3) 
+}
+Instance=racesurface_t0_s66
+{
+	MeshFile=racesurface_t0_s66.gmt CollTarget=True HATTarget=True LODOut=(1016.0) 
+}
+Instance=racesurface_t0_s67
+{
+	MeshFile=racesurface_t0_s67.gmt CollTarget=True HATTarget=True LODOut=(1030.7) 
+}
+Instance=racesurface_t0_s68
+{
+	MeshFile=racesurface_t0_s68.gmt CollTarget=True HATTarget=True LODOut=(1017.0) 
+}
+Instance=racesurface_t0_s69
+{
+	MeshFile=racesurface_t0_s69.gmt CollTarget=True HATTarget=True LODOut=(1038.0) 
+}
+Instance=racesurface_t0_s70
+{
+	MeshFile=racesurface_t0_s70.gmt CollTarget=True HATTarget=True LODOut=(1018.6) 
+}
+Instance=racesurface_t0_s71
+{
+	MeshFile=racesurface_t0_s71.gmt CollTarget=True HATTarget=True LODOut=(1021.3) 
+}
+Instance=racesurface_t0_s72
+{
+	MeshFile=racesurface_t0_s72.gmt CollTarget=True HATTarget=True LODOut=(1021.7) 
+}
+Instance=racesurface_t0_s73
+{
+	MeshFile=racesurface_t0_s73.gmt CollTarget=True HATTarget=True LODOut=(1028.8) 
+}
+Instance=racesurface_t0_s74
+{
+	MeshFile=racesurface_t0_s74.gmt CollTarget=True HATTarget=True LODOut=(1026.6) 
+}
+Instance=racesurface_t0_s75
+{
+	MeshFile=racesurface_t0_s75.gmt CollTarget=True HATTarget=True LODOut=(1033.8) 
+}
+Instance=racesurface_t0_s76
+{
+	MeshFile=racesurface_t0_s76.gmt CollTarget=True HATTarget=True LODOut=(1015.5) 
+}
+Instance=racesurface_t0_s77
+{
+	MeshFile=racesurface_t0_s77.gmt CollTarget=True HATTarget=True LODOut=(1026.2) 
+}
+Instance=racesurface_t0_s78
+{
+	MeshFile=racesurface_t0_s78.gmt CollTarget=True HATTarget=True LODOut=(1018.8) 
+}
+Instance=racesurface_t0_s79
+{
+	MeshFile=racesurface_t0_s79.gmt CollTarget=True HATTarget=True LODOut=(1043.0) 
+}
+Instance=racesurface_t0_s80
+{
+	MeshFile=racesurface_t0_s80.gmt CollTarget=True HATTarget=True LODOut=(1023.9) 
+}
+Instance=racesurface_t0_s81
+{
+	MeshFile=racesurface_t0_s81.gmt CollTarget=True HATTarget=True LODOut=(1023.8) 
+}
+Instance=racesurface_t0_s82
+{
+	MeshFile=racesurface_t0_s82.gmt CollTarget=True HATTarget=True LODOut=(1031.6) 
+}
+Instance=racesurface_t0_s83
+{
+	MeshFile=racesurface_t0_s83.gmt CollTarget=True HATTarget=True LODOut=(1012.7) 
+}
+Instance=racesurface_t0_s84
+{
+	MeshFile=racesurface_t0_s84.gmt CollTarget=True HATTarget=True LODOut=(1201.7) 
+}
+Instance=racesurface_t0_s85
+{
+	MeshFile=racesurface_t0_s85.gmt CollTarget=True HATTarget=True LODOut=(1013.9) 
+}
+Instance=racesurface_t0_s86
+{
+	MeshFile=racesurface_t0_s86.gmt CollTarget=True HATTarget=True LODOut=(1030.4) 
+}
+Instance=racesurface_t1_s0
+{
+	MeshFile=racesurface_t1_s0.gmt CollTarget=True HATTarget=True LODOut=(1011.8) 
+}
+Instance=racesurface_t1_s1
+{
+	MeshFile=racesurface_t1_s1.gmt CollTarget=True HATTarget=True LODOut=(1073.8) 
+}
+Instance=racesurface_t1_s2
+{
+	MeshFile=racesurface_t1_s2.gmt CollTarget=True HATTarget=True LODOut=(1007.4) 
+}
+Instance=racesurface_t1_s3
+{
+	MeshFile=racesurface_t1_s3.gmt CollTarget=True HATTarget=True LODOut=(1007.3) 
+}
+Instance=racesurface_t1_s4
+{
+	MeshFile=racesurface_t1_s4.gmt CollTarget=True HATTarget=True LODOut=(1012.8) 
+}
+Instance=racesurface_t1_s5
+{
+	MeshFile=racesurface_t1_s5.gmt CollTarget=True HATTarget=True LODOut=(1009.0) 
+}
+Instance=racesurface_t1_s6
+{
+	MeshFile=racesurface_t1_s6.gmt CollTarget=True HATTarget=True LODOut=(1011.1) 
+}
+Instance=racesurface_t1_s7
+{
+	MeshFile=racesurface_t1_s7.gmt CollTarget=True HATTarget=True LODOut=(1009.2) 
+}
+Instance=racesurface_t1_s8
+{
+	MeshFile=racesurface_t1_s8.gmt CollTarget=True HATTarget=True LODOut=(1010.6) 
+}
+Instance=racesurface_t1_s9
+{
+	MeshFile=racesurface_t1_s9.gmt CollTarget=True HATTarget=True LODOut=(1015.6) 
+}
+Instance=racesurface_t1_s10
+{
+	MeshFile=racesurface_t1_s10.gmt CollTarget=True HATTarget=True LODOut=(1144.5) 
+}
+Instance=racesurface_t1_s11
+{
+	MeshFile=racesurface_t1_s11.gmt CollTarget=True HATTarget=True LODOut=(1012.1) 
+}
+Instance=racesurface_t1_s12
+{
+	MeshFile=racesurface_t1_s12.gmt CollTarget=True HATTarget=True LODOut=(1042.0) 
+}
+Instance=racesurface_t1_s13
+{
+	MeshFile=racesurface_t1_s13.gmt CollTarget=True HATTarget=True LODOut=(1018.5) 
+}
+Instance=racesurface_t1_s14
+{
+	MeshFile=racesurface_t1_s14.gmt CollTarget=True HATTarget=True LODOut=(1042.1) 
+}
+Instance=racesurface_t1_s15
+{
+	MeshFile=racesurface_t1_s15.gmt CollTarget=True HATTarget=True LODOut=(1009.6) 
+}
+Instance=racesurface_t1_s16
+{
+	MeshFile=racesurface_t1_s16.gmt CollTarget=True HATTarget=True LODOut=(1013.8) 
+}
+Instance=racesurface_t2_s0
+{
+	MeshFile=racesurface_t2_s0.gmt CollTarget=True HATTarget=True LODOut=(1109.8) 
+}
+Instance=racesurface_t2_s4
+{
+	MeshFile=racesurface_t2_s4.gmt CollTarget=True HATTarget=True LODOut=(1187.3) 
+}
+Instance=racesurface_t3_s0
+{
+	MeshFile=racesurface_t3_s0.gmt CollTarget=True HATTarget=True LODOut=(1080.3) 
+}
+Instance=racesurface_t3_s3
+{
+	MeshFile=racesurface_t3_s3.gmt CollTarget=True HATTarget=True LODOut=(1266.7) 
+}
+Instance=racesurface_t3_s4
+{
+	MeshFile=racesurface_t3_s4.gmt CollTarget=True HATTarget=True LODOut=(1052.2) 
+}
+Instance=racesurface_t3_s11
+{
+	MeshFile=racesurface_t3_s11.gmt CollTarget=True HATTarget=True LODOut=(1017.9) 
+}
+Instance=racesurface_t4_s1
+{
+	MeshFile=racesurface_t4_s1.gmt CollTarget=True HATTarget=True LODOut=(1098.9) 
+}
+Instance=racesurface_t4_s2
+{
+	MeshFile=racesurface_t4_s2.gmt CollTarget=True HATTarget=True LODOut=(1329.0) 
+}
+Instance=racesurface_t5_s0
+{
+	MeshFile=racesurface_t5_s0.gmt CollTarget=True HATTarget=True LODOut=(1956.2) 
+}
+Instance=racesurface_t6_s0
+{
+	MeshFile=racesurface_t6_s0.gmt CollTarget=True HATTarget=True LODOut=(1185.5) 
+}
+Instance=racesurface_t6_s2
+{
+	MeshFile=racesurface_t6_s2.gmt CollTarget=True HATTarget=True LODOut=(1010.4) 
+}
+Instance=racesurface_t6_s3
+{
+	MeshFile=racesurface_t6_s3.gmt CollTarget=True HATTarget=True LODOut=(1070.1) 
+}
+Instance=racesurface_t6_s5
+{
+	MeshFile=racesurface_t6_s5.gmt CollTarget=True HATTarget=True LODOut=(1074.4) 
+}
